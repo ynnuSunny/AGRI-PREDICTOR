@@ -41,5 +41,4 @@ Gituhb Link: <a href="https://github.com/ynnuSunny/fertilizer_and_pesticide_api"
 &nbsp;
 &nbsp;
 ## 📜 **App Pverview**
-    <img src="https://github.com/ynnuSunny/AGRI-PREDICTOR/blob/master/app.drawio.png">
-&nbsp;
+    ![Alt text]([image link](https://github.com/ynnuSunny/AGRI-PREDICTOR/blob/master/app.drawio.png))
